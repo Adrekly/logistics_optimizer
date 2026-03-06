@@ -1,0 +1,21 @@
+//Cálculo matemático del costo total de ruta
+
+[
+  {
+    "Camino_Posible": [
+      "Almacén Central",
+      "Intersección Norte",
+      "Intersección Sur",
+      "Cliente Final"
+    ],
+    "Costo_Total": 3.6500000000000004
+  },
+  {
+    "Camino_Posible": [
+      "Almacén Central",
+      "Intersección Norte",
+      "Cliente Final"
+    ],
+    "Costo_Total": 5.25
+  }
+]
