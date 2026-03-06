@@ -1,0 +1,13 @@
+//Ruta más corta por distancia usando Dijkstra.
+
+[
+  {
+    "Algoritmo": "Dijkstra (Distancia)",
+    "Distancia_Total": 9.5,
+    "Ruta_Optima": [
+      "Almacén Central",
+      "Intersección Norte",
+      "Cliente Final"
+    ]
+  }
+]
