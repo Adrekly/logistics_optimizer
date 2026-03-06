@@ -1,8 +1,10 @@
 # 🚚 Proyecto III: Logistics Optimizer (Smart Routing)
 
-[cite_start]**Universidad Nacional Experimental de Guayana (UNEG)** 
-[cite_start]**Asignatura:** Sistemas de Bases de Datos II 
-[cite_start]**Profesora:** Clinia Cordero   
+**Universidad Nacional Experimental de Guayana (UNEG)** 
+
+**Asignatura:** Sistemas de Bases de Datos II 
+
+**Profesora:** Clinia Cordero   
 
 ## 👥 Equipo de Desarrollo
 * Adrián Reina
