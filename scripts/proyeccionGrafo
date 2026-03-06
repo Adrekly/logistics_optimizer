@@ -1,0 +1,15 @@
+//Proyección del grafo en memoria usando gds.graph.project.
+
+[
+  {
+    "Ruta_Valida": [
+      "Almacén Central",
+      "Intersección Norte",
+      "Cliente Final"
+    ],
+    "Limites_Calles_Soportadas": [
+      20,
+      20
+    ]
+  }
+]
