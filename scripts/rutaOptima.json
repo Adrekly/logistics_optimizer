@@ -1,0 +1,13 @@
+//Ruta óptima por tiempo y tráfico usando A*.
+
+[
+  {
+    "Algoritmo": "A* (Tiempo y Tráfico)",
+    "Costo_Heuristico": 21.6,
+    "Ruta_Optima": [
+      "Almacén Central",
+      "Intersección Norte",
+      "Cliente Final"
+    ]
+  }
+]
